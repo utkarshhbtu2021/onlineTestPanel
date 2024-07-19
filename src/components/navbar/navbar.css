@@ -1,0 +1,33 @@
+.navContainer{
+    display: flex;
+    justify-content: space-between;
+    padding: 12px 28px;
+    background-color:#FFFFFF;
+    box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.2);
+
+   
+}
+.navLeft{
+
+}
+.navRight{
+display: flex;
+}
+.navRight button{
+    margin-right: 14px;
+    color:#334D6E;
+    border: none;
+    font-size: 16px;
+    font-weight: 400;
+    background-color: #FFFFFF;
+}
+.navRight-left{
+
+}
+.navRight-rigth{
+
+}
+.navRight-rigth img{
+    height: 28px;
+    width: 28px;
+}
